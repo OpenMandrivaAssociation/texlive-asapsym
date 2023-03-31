@@ -1,6 +1,6 @@
 Name:		texlive-asapsym
 Version:	40201
-Release:	1
+Release:	2
 Summary:	Using the free ASAP Symbol font with LaTeX and Plain TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asapsym
