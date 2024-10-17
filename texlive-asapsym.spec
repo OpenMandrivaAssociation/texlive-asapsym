@@ -3,7 +3,7 @@ Version:	40201
 Release:	2
 Summary:	Using the free ASAP Symbol font with LaTeX and Plain TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/asapsym
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/asapsym
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asapsym.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/asapsym.doc.r%{version}.tar.xz
